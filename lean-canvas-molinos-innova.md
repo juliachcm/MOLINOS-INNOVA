@@ -16,3 +16,8 @@ Lograr que Molinos incorpore un nuevo canal de venta institucional (convenios co
 - **Usuario:** operarios de fábrica con turnos rotativos nocturnos, que consumen el producto durante su horario de descanso en planta.
 - **Cliente/decisor:** RRHH de la empresa industrial, que evalúa y contrata el convenio como parte de beneficios/bienestar laboral.
 - **Pagador:** la empresa industrial (a través de RRHH), no el operario individual.
+
+
+## 4. Necesidades y resultados del usuario
+
+Cuando el operario tiene un descanso corto en medio de su turno nocturno, quiere conseguir una comida rápida de preparar/consumir, que le resulte rica y que además le aporte energía sostenida, para llegar al final del turno sin bajones de rendimiento, sin tener que elegir entre lo práctico/sabroso y lo nutritivo.
